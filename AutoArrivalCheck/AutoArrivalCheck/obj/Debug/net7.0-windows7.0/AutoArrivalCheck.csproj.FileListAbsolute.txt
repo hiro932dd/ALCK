@@ -1,0 +1,1 @@
+C:\Users\2210383\Documents\CheckSystem\AutoArrivalCheck\AutoArrivalCheck\obj\Debug\net7.0-windows7.0\AutoArrivalCheck.csproj.AssemblyReference.cache
